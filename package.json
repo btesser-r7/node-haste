@@ -1,6 +1,6 @@
 {
   "name": "node-haste",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "haste": {
     "name": "node-haste"
   },
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/node-haste.git"
+    "url": "https://github.com/btesser-r7/node-haste.git"
   },
   "devDependencies": {
     "jasmine-node": "~1.13.0"
